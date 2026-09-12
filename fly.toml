@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for s--h on 2026-09-12T12:59:48Z
+# fly.toml app configuration file generated for s--l on 2026-09-12T15:40:57Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 's--h'
+app = 's--l'
 primary_region = 'fra'
 
 [build]
